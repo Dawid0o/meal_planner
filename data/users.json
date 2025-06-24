@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Bartek",
+    "meal_plan": {
+      "Poniedziałek": [],
+      "Wtorek": [
+        {
+          "name": "Kebab domowy",
+          "ingredients": [
+            "chleb pita",
+            "kurczak",
+            "jogurt naturalny",
+            "czosnek",
+            "ogórek",
+            "sałata",
+            "pomidor",
+            "przyprawy kebabowe"
+          ]
+        }
+      ],
+      "Środa": [],
+      "Czwartek": [],
+      "Piątek": [],
+      "Sobota": [],
+      "Niedziela": []
+    }
+  }
+]

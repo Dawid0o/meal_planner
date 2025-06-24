@@ -1,0 +1,58 @@
+[
+  {"name": "Jajecznica", "ingredients": ["jajka", "masło", "sól", "pieprz"]},
+  {"name": "Kanapka z serem", "ingredients": ["chleb", "ser", "masło", "pomidor"]},
+  {"name": "Owsianka z owocami", "ingredients": ["płatki owsiane", "mleko", "banan", "jagody"]},
+  {
+        "name": "Spaghetti Bolognese",
+        "ingredients": ["makaron", "mięso mielone", "cebula", "czosnek", "pomidory", "olej", "bazylia"]
+    },
+    {
+        "name": "Sałatka grecka",
+        "ingredients": ["sałata", "pomidor", "ogórek", "oliwki", "ser feta", "oliwa", "oregano"]
+    },
+    {
+        "name": "Kurczak curry",
+        "ingredients": ["pierś z kurczaka", "mleko kokosowe", "pasta curry", "cebula", "ryż", "olej"]
+    },
+    {
+        "name": "Zupa pomidorowa",
+        "ingredients": ["pomidory", "marchew", "seler", "cebula", "bulion", "śmietana", "makaron"]
+    },
+    {
+        "name": "Placki ziemniaczane",
+        "ingredients": ["ziemniaki", "cebula", "jajko", "mąka", "olej", "sól", "pieprz"]
+    },
+    {
+        "name": "Omlet z warzywami",
+        "ingredients": ["jajka", "papryka", "cebula", "pomidor", "ser", "sól", "pieprz"]
+    },
+    {
+        "name": "Tosty z awokado",
+        "ingredients": ["chleb", "awokado", "jajko", "sól", "pieprz", "cytryna"]
+    },
+    {
+        "name": "Łosoś pieczony",
+        "ingredients": ["łosoś", "cytryna", "czosnek", "oliwa", "koperek"]
+    },
+    {
+        "name": "Gulasz wołowy",
+        "ingredients": ["wołowina", "cebula", "papryka", "marchew", "czosnek", "bulion", "przyprawy"]
+    },
+    {
+        "name": "Risotto z grzybami",
+        "ingredients": ["ryż arborio", "grzyby", "cebula", "czosnek", "bulion", "masło", "parmezan"]
+    },
+  {
+        "name": "Naleśniki",
+        "ingredients": ["mąka", "jajka", "mleko", "woda", "szczypta soli", "olej"]
+    },
+    {
+        "name": "Gofry",
+        "ingredients": ["mąka", "jajka", "mleko", "proszek do pieczenia", "cukier", "olej", "sól"]
+    },
+    {
+        "name": "Kebab domowy",
+        "ingredients": ["chleb pita", "kurczak", "jogurt naturalny", "czosnek", "ogórek", "sałata", "pomidor", "przyprawy kebabowe"]
+    }
+
+]
